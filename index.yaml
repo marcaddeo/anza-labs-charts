@@ -7,7 +7,7 @@ entries:
       description:
         "_pocket-id_ is a simple and easy-to-use OIDC provider that allows
         users to authenticate with their passkeys to your services. "
-      digest: 9b19df44098bcdfa274a5691b909cfb5dcc8c7fb18d16b337a1b095ad0a23582
+      digest: e1287fde6d49d01d2f640e94fdb087e6e7624d15d39334bb0ef4bb082e31e83b
       home: https://pocket-id.org
       maintainers:
         - email: maturb@proton.me
