@@ -7,7 +7,7 @@ entries:
       description:
         "_pocket-id_ is a simple and easy-to-use OIDC provider that allows
         users to authenticate with their passkeys to your services. "
-      digest: e1287fde6d49d01d2f640e94fdb087e6e7624d15d39334bb0ef4bb082e31e83b
+      digest: 0e29f6193949bc779374fecf852da4beb97b91b0d10ee516b781ea7fdac7c389
       home: https://pocket-id.org
       maintainers:
         - email: maturb@proton.me
@@ -18,5 +18,5 @@ entries:
         - https://github.com/pocket-id/pocket-id
       type: application
       urls:
-        - https://github.com/marcaddeo/anza-labs-charts/releases/download/pocket-id-0.2.1/pocket-id-0.2.1.tgz
-      version: 0.2.1
+        - https://github.com/marcaddeo/anza-labs-charts/releases/download/pocket-id-1.1.4/pocket-id-1.1.4.tgz
+      version: 1.1.4
