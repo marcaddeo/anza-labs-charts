@@ -174,13 +174,13 @@ CLOUD_PROVIDER_KIND_VERSION ?= v0.6.0
 CTLPTL_VERSION ?= v0.8.42
 
 # renovate: datasource=github-tags depName=helm/helm
-HELM_VERSION ?= v3.18.2
+HELM_VERSION ?= v3.18.3
 
 # renovate: datasource=github-tags depName=norwoodj/helm-docs
 HELM_DOCS_VERSION ?= v1.14.2
 
 # renovate: datasource=github-tags depName=losisin/helm-values-schema-json
-HELM_VALUES_SCHEMA_JSON_VERSION ?= v2.0.0
+HELM_VALUES_SCHEMA_JSON_VERSION ?= v2.1.0
 
 # renovate: datasource=github-tags depName=kubernetes-sigs/kind
 KIND_VERSION ?= v0.29.0
